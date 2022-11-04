@@ -1,6 +1,6 @@
 ---
 title: Anarchy and Scientific Communism
-author: Bukharin, Nikolai
+author: Nikolai Bukharin
 date: 1918
 description: Written by Bukharin during his left communist phase. From <https://www.marxists.org/archive/bukharin/works/1918/ps.htm>.
 ...

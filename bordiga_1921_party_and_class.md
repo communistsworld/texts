@@ -1,6 +1,6 @@
 ---
 title: Party and Class
-author: Bordiga, Amadeo
+author: Amadeo Bordiga
 date: 1921
 description: Written in 1921 for Rassegna Comunista, this English version was included with the Antagonism pamphlet 'Bordiga versus Pannekoek,' whose red texts version this comes from. <https://web.archive.org/web/20091027020653/http://www.geocities.com/CapitolHill/Lobby/3909/bordiga/bvptoc.html>.
 ...
